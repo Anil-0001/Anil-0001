@@ -27,7 +27,7 @@ JavaScript · React · Next.js · HTML5 · CSS3 · Tailwind CSS
 
 **Backend**
 
-Node.js · Express.js · REST APIs
+Node.js · Nest.js · Express.js · REST APIs
 
 **Databases**
 
