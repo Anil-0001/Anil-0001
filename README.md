@@ -51,12 +51,11 @@ I am continuously working on web development projects and improving my developme
 
 ---
 
-## 📈 GitHub Overview
+### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anil-0001&show_icons=true&hide_border=true&rank_icon=github)
+You can explore my repositories and development activity here:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-0001&layout=compact&hide_border=true)
-
+[![GitHub](https://img.shields.io/badge/GitHub-Anil--0001-black?style=for-the-badge&logo=github)](https://github.com/Anil-0001)
 ---
 
 ## 🎯 Current Focus
